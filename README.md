@@ -20,14 +20,8 @@ This is a PyQt5-based chat application that supports public and private messagin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pyqt5-chat-app.git
-    cd pyqt5-chat-app
-    ```
-
-2. Install the required packages:
-
-    ```bash
-    pip install -r requirements.txt
+    git clone https://github.com/Warm-Hearted-Snowman/chatroom-socket-python
+    cd chatroom-socket-python
     ```
 
 ## Usage
@@ -88,4 +82,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or support, please contact `your.email@example.com`.
+For any questions or support, please contact `amirhtpt.a@gmail.com`.
